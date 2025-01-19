@@ -1,0 +1,1 @@
+This example demonstrates two common errors in Ada programming related to subtypes and type conversion.  The first error involves assigning a value to a variable that exceeds the defined range of its subtype. The second involves attempting to convert a value using the wrong type (subtype). The solution showcases how to properly handle these situations and avoid runtime errors.
